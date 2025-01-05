@@ -10,7 +10,7 @@
 ## username max_length is 10 so always put less than equal to 10 otherwise you will get Internal Server Error
 ## Description max_length is 500
 
-## I could have done deployed the fastapi on Lambda but As there is An issues with my AWS account so I haven't deployed.
+## I could have done deployed the fastapi on Lambda but As there is An issues with my AWS account so I haven't deployed.(Also it was optional)
 ### See the Live Projects (Deployed on render)
 # base URL
 
