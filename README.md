@@ -25,3 +25,8 @@ To run the application, use the following steps:
 cd API
 # Run the application with the following command:
 uvicorn main:app --reload
+
+
+
+
+## I could have done deployed the fastapi on Lambda but As there is An issues with my AWS account so I haven't deployed.
