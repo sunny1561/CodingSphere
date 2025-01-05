@@ -6,6 +6,10 @@
 - **model.py**: Defines the `User` and `Project` models, which are imported into `main.py`.
 - **requirements.txt**: Lists all the dependencies required for the project.
 - **.env** : All Environment Variables are included here
+## Note
+username max_length is 10 so always put less than equal to 10 otherwise you will get Internal Server Error
+Description max_length is 500
+
 ## I could have done deployed the fastapi on Lambda but As there is An issues with my AWS account so I haven't deployed.
 ### See the Live Projects (Deployed on render)
 # base URL
