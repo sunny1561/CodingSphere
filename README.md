@@ -6,6 +6,15 @@
 - **model.py**: Defines the `User` and `Project` models, which are imported into `main.py`.
 - **requirements.txt**: Lists all the dependencies required for the project.
 - **.env** : All Environment Variables are included here
+## I could have done deployed the fastapi on Lambda but As there is An issues with my AWS account so I haven't deployed.
+### See the Live Projects (Deployed on render)
+# base URL
+
+https://codingsphere-7.onrender.com/
+## Go to docs for fastapi
+https://codingsphere-7.onrender.com/docs
+
+## for testing first register and then login while Click on Authorize Button which is on top right  now you are ready to use all features mentioned in the assignment.
 
 ## Instructions to Run
 
@@ -30,4 +39,4 @@ uvicorn main:app --reload
 
 
 
-## I could have done deployed the fastapi on Lambda but As there is An issues with my AWS account so I haven't deployed.
+
