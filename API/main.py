@@ -85,6 +85,11 @@ def get_current_active_user(current_user: Annotated[dict, Depends(get_current_us
     return current_user
 
 # Endpoints
+
+@app.get("/")
+def read_root():
+    return {"message": "Welcome to CodingSphere"}
+    
 @app.post("/register")
 def register(username: str, password: str, role: str):
     if role not in ["admin", "user"]:
