@@ -1,21 +1,19 @@
-# CodingSphere
-A Simple API with JWT Authentication and RBAC
+# CodingSphere: A Simple API with JWT Authentication and RBAC
 
-# Code Structure:
+## Project Structure
 
-# main.py
-Contains all the logic, API endpoints, and MongoDB connectivity.
+- **main.py**: Contains the logic for API endpoints and MongoDB connectivity.
+- **model.py**: Defines the `User` and `Project` models, which are imported into `main.py`.
+- **requirements.txt**: Lists all the dependencies required for the project.
 
-# model.py
-Defines the User and Project models, which are imported into main.py.
+## Instructions to Run
 
-# requirements.txt
-Lists all dependencies that need to be installed.
+### 1. Install Required Dependencies
 
-## Instructions to Run:
-Install the required dependencies: //
-pip install -r requirements.txt //
-Note: Ensure the environment variables are properly set in the .env file.
+To install all the necessary Python packages, run the following command:
+```bash
+pip install -r requirements.txt
+
 
 ## Open Visual Studio Code or your preferred code editor.
 To run the application, use the following steps:
