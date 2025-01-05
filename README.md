@@ -15,7 +15,8 @@ https://codingsphere-7.onrender.com/
 https://codingsphere-7.onrender.com/docs
 
 ## for testing first register and then login while Click on Authorize Button which is on top right  now you are ready to use all features mentioned in the assignment. For reference see the below image
-![ALL text](Screenshot (300).png)
+
+![Alt text](./assets/Screenshot (300).png)
 
 ## Instructions to Run
 
