@@ -2,14 +2,14 @@
 A Simple API with JWT Authentication and RBAC
 
 # Code Structure:
-API:
-main.py
+
+# main.py
 Contains all the logic, API endpoints, and MongoDB connectivity.
 
-model.py
+# model.py
 Defines the User and Project models, which are imported into main.py.
 
-requirements.txt
+# requirements.txt
 Lists all dependencies that need to be installed.
 
 ## Instructions to Run:
