@@ -5,7 +5,7 @@
 - **main.py**: Contains the logic for API endpoints and MongoDB connectivity.
 - **model.py**: Defines the `User` and `Project` models, which are imported into `main.py`.
 - **requirements.txt**: Lists all the dependencies required for the project.
-- **.env** : All Environment Variable included here
+- **.env** : All Environment Variables are included here
 
 ## Instructions to Run
 
