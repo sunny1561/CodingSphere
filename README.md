@@ -14,19 +14,12 @@ Lists all dependencies that need to be installed.
 
 ## Instructions to Run:
 Install the required dependencies:
-
-
 pip install -r requirements.txt
 Note: Ensure the environment variables are properly set in the .env file.
 
 ## Open Visual Studio Code or your preferred code editor.
 To run the application, use the following steps:
-
 (Optional) Navigate to the API directory if your main.py is located inside the API folder:
-bash
-Copy code
 cd API
 # Run the application with the following command:
-bash
-Copy code
 uvicorn main:app --reload
