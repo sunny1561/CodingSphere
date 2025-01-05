@@ -15,6 +15,10 @@ To install all the necessary Python packages, run the following command:
 pip install -r requirements.txt
 
 
+2. Set Up Environment Variables
+Ensure the environment variables are properly set in the .env file. This is crucial for the correct functioning of the application, as it reads the values from the environment (such as database connection strings, JWT secret keys, etc.).
+
+
 ## Open Visual Studio Code or your preferred code editor.
 To run the application, use the following steps:
 (Optional) Navigate to the API directory if your main.py is located inside the API folder:
