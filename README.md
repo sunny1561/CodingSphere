@@ -13,8 +13,8 @@ Defines the User and Project models, which are imported into main.py.
 Lists all dependencies that need to be installed.
 
 ## Instructions to Run:
-Install the required dependencies:
-pip install -r requirements.txt
+Install the required dependencies: //
+pip install -r requirements.txt //
 Note: Ensure the environment variables are properly set in the .env file.
 
 ## Open Visual Studio Code or your preferred code editor.
